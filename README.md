@@ -1,1 +1,1 @@
-# Acquisition-de-signaux-et-classification-en-temps-r-el
+# Acquisition de signaux et classification en temps réel
